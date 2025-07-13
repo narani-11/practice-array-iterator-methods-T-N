@@ -1,0 +1,20 @@
+{
+  "name": "practice-array-iterator-methods-t-n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narani-11/practice-array-iterator-methods-T-N.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narani-11/practice-array-iterator-methods-T-N/issues"
+  },
+  "homepage": "https://github.com/narani-11/practice-array-iterator-methods-T-N#readme",
+  "description": ""
+}
